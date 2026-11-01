@@ -12,3 +12,4 @@ while (contador <= 30) {
     contador++;
 }
 console.log("Suma:", suma1);
+

@@ -16,4 +16,5 @@ if (!isNaN(tamano) && tamano > 0) {
     
 } else {
     console.log("introduce un número entero válido mayor que 0.");
-}
+}  
+

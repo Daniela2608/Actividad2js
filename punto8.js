@@ -12,3 +12,4 @@ if (!isNaN(numero) && numero > 0) {
 } else {
     console.log("Introduce un número entero válido mayor que 0.");
 }
+

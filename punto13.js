@@ -5,3 +5,5 @@ for (let i = 1; i <= num; i++) {
     resultado *= i;
 }
 console.log("El factorial de " + num + " es: " + resultado);
+
+
