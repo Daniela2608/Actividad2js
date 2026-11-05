@@ -9,5 +9,3 @@ for (let i = 1; i <= altura; i++) {
     }
     console.log(linea);
 }
-
-
